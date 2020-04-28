@@ -1,0 +1,1 @@
+V	200605110645Z		01	unknown	/C=CZ/ST=Czechia/O=client/CN=client.haproxy.test
